@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.10",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/gold-orange-logo-2-128x148.png",
+    "favicon": "@PROJECT_PATH@/assets/images/gold-suit-logo-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
