@@ -1,0 +1,2 @@
+# beylikduzu
+GitHub Pages
